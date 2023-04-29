@@ -6,5 +6,5 @@ User u2;
 //u1.SetName = "m1";
 //Console.WriteLine(u1.GetName()) ;
 
-u1.Name = "Mohammed";
+u1.Name = "Mohamad";
 Console.WriteLine(u1.Name);
